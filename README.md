@@ -32,7 +32,7 @@ Config:
 ![image](https://github.com/RicardoDeGenova/hospital-management-system/assets/79471515/52eaf41f-92bb-49b6-9057-ba60f463a469)
 
 
-Inicial meds they use, should already load db with it:
+Inicial meds, should already load db with it:
 
   - Acetaminophen + caffeine
   - Acetaminophen drops
