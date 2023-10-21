@@ -25,7 +25,13 @@ Constraints:
 Functionality (must-haves):
   - Must print patient forms with fields ready to also be handwritten after printed
   - Iternationalization (English, Haitian Kreyol and Spanish, currently)
+      - Lanugage selection after sign-in
   - One user starts the patient records and another one finishes it (separate it into several parts)
+
+Users:
+  - Doctor
+  - Nurse
+  - 
 
 Config:
   - Use SQLite for local config
