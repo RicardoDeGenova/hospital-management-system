@@ -41,6 +41,15 @@ Config:
 ### Current Triage Patient Form
 ![image](https://github.com/RicardoDeGenova/hospital-management-system/assets/79471515/52eaf41f-92bb-49b6-9057-ba60f463a469)
 
+
+### Proposed Views: Patient Registration View (UI independent for now)
+![image](https://github.com/RicardoDeGenova/hospital-management-system/blob/main/Resources/Patient%20Registration%20View.png)
+
+
+### Proposed Views: Triage And Assesment View (UI independent for now)
+![image](https://github.com/RicardoDeGenova/hospital-management-system/blob/main/Resources/Triage%20And%20Assesment%20View.png)
+
+
 Have meds separed by colored sections
 Create sections for each type of med that the user filters, example: 
   - Section1 > Section2 > Med
