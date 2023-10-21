@@ -41,6 +41,9 @@ Config:
 ### Current Triage Patient Form
 ![image](https://github.com/RicardoDeGenova/hospital-management-system/assets/79471515/52eaf41f-92bb-49b6-9057-ba60f463a469)
 
+Have meds separed by colored sections
+Create sections for each type of med that the user filters, example: 
+  - Section1 > Section2 > Med
 
 Inicial meds, should already load db with it:
 
