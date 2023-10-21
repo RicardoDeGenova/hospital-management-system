@@ -37,7 +37,7 @@ public class Patient
     public MeasureType WeightType { get; set; }
     public int FamilySize { get; set; }
     public HighestEducation HighestEducation { get; set; }
-    public List<MedicalCondition> MedicalConditionList { get; set; }
+    public List<MedicalCondition> MedicalConditions { get; set; }
     public DateTime CreatedAt { get; set; }
 
     public string FullName => $"{FirstName} {LastName}";
