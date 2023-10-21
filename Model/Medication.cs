@@ -12,6 +12,6 @@ public class Medication
 {
     public int Id { get; set; }
     public string Name { get; set; }
-    public int Dosage { get; set; }
-    public DosageType DosageType { get; set; } 
+    public decimal Dosage { get; set; }
+    public DosageType DosageType { get; set; }
 }
