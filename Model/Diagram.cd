@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HospitalManagement.Model.Patient">
+    <Position X="7.75" Y="2.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACgkAABAAAAICAAOAAABAIACAQAAACAAAAAAAAAAg=</HashCode>
+      <FileName>Patient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HospitalManagement.Model.Address">
+    <Position X="10.5" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAIAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Address.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HospitalManagement.Model.Allergy">
+    <Position X="1.25" Y="8.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Allergy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HospitalManagement.Model.Exam">
+    <Position X="3.75" Y="6.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAASgAAAAQIEAABgAAAAACAACAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Exam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HospitalManagement.Model.MedicalCondition">
+    <Position X="3.75" Y="4.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAgAAAAAAAAAAQAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>MedicalCondition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HospitalManagement.Model.Medication">
+    <Position X="3.75" Y="2.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAgAAAQAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Medication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HospitalManagement.Model.Provider">
+    <Position X="6.25" Y="1" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Provider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HospitalManagement.Model.Triage">
+    <Position X="1.25" Y="5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>KAACQAAAAQAAAAAAAAAAAAAAAAIAABABAAAAAAAFAAA=</HashCode>
+      <FileName>Triage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="HospitalManagement.Model.DosageType">
+    <Position X="11.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAEAAAAAAAAAAAIAAgAAAAAAAA=</HashCode>
+      <FileName>Medication.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="HospitalManagement.Model.Gender">
+    <Position X="14.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Patient.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="HospitalManagement.Model.HighestEducation">
+    <Position X="8" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQEAAAQAAAAAAAAAAAACAAAAAAAAABAAAAEBgAA=</HashCode>
+      <FileName>Patient.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="HospitalManagement.Model.MeasureType">
+    <Position X="15.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Patient.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
