@@ -18,6 +18,10 @@ Constraints:
   We can make a totally offline service for the server, or we can make it offline-first but keep trying to save in the cloud until it manages it.
   For extra redundancy in the database, one option is to have it inspired in the blockchain, so every user has a copy of the db. Maybe use SQLite for local db (for simplicity). Or have an actual backup file saved periodically in another machine or external hard drive.
 
+  Actualy it may be better to have a distributed system (everyone has a copy of the db).
+
+  The idea is to computer/server that will act as the central system. It'll host the backend and possibly the frontend (if we use blazor)).
+
 Functionality (must-haves):
   - Must print patient forms with fields ready to also be handwritten after printed
   - Iternationalization (English, Haitian Kreyol and Spanish, currently)
