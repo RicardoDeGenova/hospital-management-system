@@ -1,4 +1,4 @@
-# Hospital Management - APL
+# Hospital Management System (HMS) - APL
 
 Medical management system for [Ann Prepare Lavni (APL)](https://annpreparelavni.org) 
 
